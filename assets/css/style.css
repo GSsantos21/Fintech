@@ -1,0 +1,33 @@
+*{
+    background-image: linear-gradient(to bottom, #3C8CD7,#FFFFFF);
+    background-attachment: fixed;
+    font-family: 'Kalam', sans-serif;
+}
+
+
+.headline{
+    font-size: 30px;
+    margin-left: 3%;
+    padding: 5%;
+    display: inline-block;
+}
+
+.imagem{
+    display: inline-block;
+}
+
+.paragrafo{
+    font-size: 20px;
+    margin-left: 3%;
+    padding: 5%;
+}
+
+.tex{
+    font-size: 30px;
+    line-height: 150px;
+}
+
+.botao{
+    margin-left: 8%;
+    padding: 0%;
+}
